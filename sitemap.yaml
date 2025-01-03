@@ -1,54 +1,53 @@
 index.md:
-  hash: fef930feeee1c084485876428a3defa9
-  summary: This website chronicles the transition from software engineering to applied
-    AI, offering career insights, tips, and inspiration for professional growth and
-    learning. It features stories and lessons aimed at those seeking practical advice,
-    a fresh perspective, or encouragement in their AI journey. Readers can explore
-    the latest posts or browse specific topics through categorized sections. Subscribers
-    can receive monthly newsletters summarizing new content. The author is available
-    for connection on Twitter and GitHub, providing updates and further interaction
-    opportunities. Key themes include AI, software engineering, career advice, personal
-    growth, and continuous learning.
+  hash: 70259718d2a012d7850d94c7ca063e51
+  summary: This website chronicles a personal journey from software engineering to
+    AI, offering practical advice, career insights, and inspiring stories. It serves
+    as a resource for readers seeking guidance and motivation in transitioning to
+    AI careers. The site features various categories and a monthly newsletter for
+    updates on the latest posts. Readers can follow the author's updates on Twitter
+    and GitHub, with LinkedIn available for connections. Key topics include Applied
+    AI, Software Engineering, Career Advice, and Personal Journey.
 reading/book-club.md:
-  hash: 8c73990684108397a63eefc7d2dd595c
-  summary: The Data Science and Machine Learning Book Club is a free online community
-    where members can engage with books on data science and machine learning. Each
-    month, the community selects a book to read and discuss on Discord, fostering
-    vibrant conversations. Occasionally, live discussions with authors are hosted
-    on YouTube, offering further insights. Key themes include data science, machine
-    learning, book club, reading, and discussion.
+  hash: 429c8f6ee3e04eee2b9ab9d7cc1261ec
+  summary: 'The Data Science and Machine Learning Book Club offers a free, engaging
+    platform for book enthusiasts to delve into monthly reads related to applied AI,
+    data science, and machine learning. Members participate in community-chosen book
+    discussions held on Discord, with opportunities for live post-reading chats with
+    authors on YouTube. The club fosters knowledge-sharing and interactive discussions,
+    making it a valuable resource for those interested in expanding their understanding
+    of data science and machine learning. Key terms: book club, data science, machine
+    learning, reading list, author discussions, community voting.'
 reading/books.md:
-  hash: 33ba3f1b656c8285149e0df9e87e0222
-  summary: 'Explore essential books for career growth in AI and machine learning (ML)
-    with recommendations covering interview preparation, ML systems, leadership, and
-    data science career development. Key titles include "Ace the Data Science Interview"
-    for FAANG and tech startup interview prep, "Machine Learning Engineering in Action"
-    for practical ML engineering insights, and leadership guides like "Build a Career
-    in Data Science" and "How to Lead in Data Science." Discover resources for developing
-    robust ML systems and advancing in data science roles, provided by reputable publishers
-    like Manning Publications and O''Reilly Media. Keywords: AI, machine learning,
-    data science, interview preparation, career development, leadership, ML systems,
-    book recommendations.'
+  hash: d7da3f33d579e34181ab5ea1ad421669
+  summary: This content is a curated list of essential AI and Machine Learning (ML)
+    books aimed at developers and data scientists seeking to advance their careers
+    and skills. It includes recommendations for books on interview preparation, machine
+    learning engineering, system design, leadership, and career development. Highlighted
+    titles include "Writing for Developers" by Piotr Sarna and Cynthia Dunlop, "Ace
+    the Data Science Interview" by Kevin Huo and Nick Singh, and "Build a Career in
+    Data Science" by Emily Robinson and Jacqueline Nolis. The list provides insights
+    into the core ideas, crucial knowledge, and skills development offered by each
+    book. Key areas covered are AI, Machine Learning, Data Science, Career Development,
+    and Leadership.
 writing/index.md:
-  hash: 812957329a13b463d49363f8aab52fd0
-  summary: This content focuses on the author's transition from software engineering
-    to AI, highlighting key themes such as system design and technical leadership.
-    It emphasizes learnings and challenges encountered during this transition, catering
-    to professionals interested in making similar career shifts. The author also shares
-    insights through articles, with topics like selecting technology for production
-    systems being covered. Readers can stay updated by subscribing to a monthly newsletter.
-    Key terms include AI Transition, System Design, Technical Leadership, Software
-    Engineering, and Newsletter.
+  hash: be7ccd29492f94ea800690a87ae67fce
+  summary: This content focuses on the transition from software engineering to AI,
+    offering insights into system design, project management, and technical leadership.
+    Authored by fb, the writings delve into learnings, challenges, and projects encountered
+    during this transition. The article features a newsletter for updates on new posts,
+    curated monthly. Key topics include AI, software engineering, system design, and
+    technical leadership, with a highlighted post on choosing the right technology
+    for production titled "The Default Heuristic."
 writing/posts/the-default-heuristic.md:
-  hash: 2bcf585fddc9b50022867040a70c11c3
-  summary: "The article \"How to Choose Tech for Production: The Default Heuristic\"\
-    \ explores the decision-making strategy of using established, reliable technologies\
-    \ in system design to balance innovation and stability. It highlights the pitfalls\
-    \ of the Optimization Fallacy\u2014pursuing untested, cutting-edge tech at the\
-    \ cost of time and resources\u2014and advocates for the Default Heuristic approach\
-    \ to ensure reliability and maintainability in production systems. Key examples\
-    \ include Pinterest's shift to mature technologies for stability and StackOverflow's\
-    \ use of proven tech for performance reliability. The article emphasizes choosing\
-    \ established solutions under resource constraints, critical applications, and\
-    \ when scaling rapidly, while still allowing room for exploration in lower-risk\
-    \ environments."
+  hash: 7fcbb494d8bbbcc5c43c0eec0ccd3029
+  summary: "The article, \"How to Choose Tech for Production: The Default Heuristic,\"\
+    \ discusses the importance of selecting established, reliable technologies over\
+    \ cutting-edge, untested alternatives for production systems. It introduces the\
+    \ concept of the Default Heuristic, which prioritizes stability, maintainability,\
+    \ and reliability, helping avoid the pitfalls of the Optimization Fallacy\u2014\
+    chasing the \"ideal\" solution unnecessarily. Key examples include Pinterest's\
+    \ and StackOverflow's successful use of proven technologies. The piece outlines\
+    \ when and why to apply the Default Heuristic, highlighting its advantages in\
+    \ resource-constrained projects, critical applications, and scenarios with uncertain\
+    \ long-term requirements. Key benefits include proven reliability, a rich ecosystem,\
+    \ talent availability, and risk reduction."
