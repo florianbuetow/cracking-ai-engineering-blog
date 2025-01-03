@@ -12,3 +12,6 @@ matplotlib
 lxml_html_clean
 python-frontmatter
 jupyter
+openai
+typer
+instructor

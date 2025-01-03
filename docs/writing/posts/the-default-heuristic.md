@@ -2,14 +2,18 @@
 authors:
 - fb
 categories:
-- System Design
+- Software Engineering
 date: 2025-02-01
-description: Explore the Default Heuristic for choosing tech in production environments,
-  balancing innovation with stability.
+description: Discover the Default Heuristic for tech selection in production systems,
+  balancing stability and innovation effectively.
 draft: false
 slug: the-default-heuristic
 tags:
-- System Design
+- tech selection
+- Default Heuristic
+- production systems
+- reliability
+- software engineering
 ---
 
 # How to Choose Tech for Production: The Default Heuristic

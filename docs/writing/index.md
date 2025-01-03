@@ -4,15 +4,15 @@ authors:
 categories:
 - Applied AI
 date: 2025-01-01
-description: Explore writings on transitioning from software engineering to AI, focusing
-  on system design and technical leadership.
+description: Explore insightful writings on the transition from software engineering
+  to AI, including system design and project management.
 draft: false
 slug: writing
 tags:
-- AI Transition
+- AI
+- Software Engineering
 - System Design
 - Technical Leadership
-- Software Engineering
 - Newsletter
 ---
 

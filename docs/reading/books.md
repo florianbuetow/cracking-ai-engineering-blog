@@ -1,14 +1,14 @@
 ---
 categories:
-- Personal Growth
-description: Explore essential AI/ML books for career growth, including recommendations
-  for interview prep and leadership in data science.
+- Software Engineering
+description: Explore essential AI/ML books with recommendations for developers and
+  data scientists to enhance their career and skills.
 tags:
 - AI
 - Machine Learning
 - Data Science
-- Books
 - Career Development
+- Books
 ---
 
 # Books

@@ -40,15 +40,15 @@ writing/index.md:
     Key terms include AI Transition, System Design, Technical Leadership, Software
     Engineering, and Newsletter.
 writing/posts/the-default-heuristic.md:
-  hash: 29962d5e3ca00c049a28b393f4cb9814
-  summary: 'The article "How to Choose Tech for Production: The Default Heuristic"
-    explores the Default Heuristic approach in system design, emphasizing the importance
-    of choosing established, reliable technologies over untested alternatives for
-    production systems. It highlights the dangers of the Optimization Fallacy, where
-    the pursuit of perfection risks unnecessary complexity and costs. Using examples
-    from Pinterest and StackOverflow, the article illustrates the benefits of the
-    Default Heuristic in ensuring long-term stability, manageability, and performance.
-    Core ideas include prioritizing proven technology, minimizing risks, and balancing
-    innovation with stability, especially in resource-constrained or critical environments.
-    Keywords: Default Heuristic, system design, Optimization Fallacy, proven technology,
-    stability, scalability, risk reduction.'
+  hash: 2bcf585fddc9b50022867040a70c11c3
+  summary: "The article \"How to Choose Tech for Production: The Default Heuristic\"\
+    \ explores the decision-making strategy of using established, reliable technologies\
+    \ in system design to balance innovation and stability. It highlights the pitfalls\
+    \ of the Optimization Fallacy\u2014pursuing untested, cutting-edge tech at the\
+    \ cost of time and resources\u2014and advocates for the Default Heuristic approach\
+    \ to ensure reliability and maintainability in production systems. Key examples\
+    \ include Pinterest's shift to mature technologies for stability and StackOverflow's\
+    \ use of proven tech for performance reliability. The article emphasizes choosing\
+    \ established solutions under resource constraints, critical applications, and\
+    \ when scaling rapidly, while still allowing room for exploration in lower-risk\
+    \ environments."

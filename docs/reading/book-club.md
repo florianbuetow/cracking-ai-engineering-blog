@@ -1,13 +1,13 @@
 ---
 categories:
 - Applied AI
-description: Join the Data Science and Machine Learning Book Club to explore insightful
-  reads and engage in vibrant discussions with passionate members.
+description: Join the Data Science and Machine Learning Book Club for monthly reads,
+  discussions, and live chats with authors on Discord and YouTube.
 tags:
+- book club
 - data science
 - machine learning
-- book club
-- reading
+- reading list
 - discussion
 ---
 

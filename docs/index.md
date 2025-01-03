@@ -1,14 +1,14 @@
 ---
 categories:
 - Applied AI
-description: Follow my journey from software engineering to AI, with insights, tips,
-  and inspiration for career growth and learning.
+description: Join my journey from software engineering to AI, exploring practical
+  advice and career insights for inspiration.
 tags:
-- AI
 - Software Engineering
+- AI
 - Career Advice
 - Personal Journey
-- Learning
+- Newsletter
 ---
 
 # :boom: Hi there!
